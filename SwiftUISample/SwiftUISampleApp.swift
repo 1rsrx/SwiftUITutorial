@@ -11,8 +11,8 @@ import SwiftUI
 struct SwiftUISampleApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
-//            MapView()
+//            LandmarkDetailView()
+            LandmarkList()
         }
     }
 }
